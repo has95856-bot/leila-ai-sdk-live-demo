@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-03T22:25:47.600Z",
+  "durationMs": 6240,
+  "provider": "OpenRouter via @ai-sdk/openai-compatible",
+  "sdk": "Vercel AI SDK",
+  "modelId": "google/gemini-2.5-flash-lite",
+  "streamingIntro": "تجربة تحفيزية، تلهم العقل وترتقي بالروح.",
+  "text": "**تجربة Vercel AI SDK مع Golden Angles**\n\n**1. فكرة التطبيق:**\n\nمساعد ذكي لتوليد أفكار تسويقية مبتكرة لمنتجات أو خدمات جديدة، مع التركيز على زوايا تسويقية فريدة (Golden Angles).\n\n**2. مميزات واضحة:**\n\n*   **توليد أفكار متنوعة:** يقترح المساعد زوايا تسويقية مختلفة بناءً على وصف المنتج أو الخدمة.\n*   **تحسين الرسائل التسويقية:** يساعد في صياغة شعارات ونصوص إعلانية جذابة تتناسب مع الزاوية المختارة.\n*   **تحليل المنافسين (مستقبلي):** يمكن تطويره ليشمل تحليل سريع للمنافسين واقتراح زوايا تميز.\n\n**3. مثال Prompt:**\n\n\"اقترح 3 زوايا تسويقية مبتكرة لمنتج قهوة عضوية جديدة تستهدف الشباب المهتمين بالاستدامة.\"\n\n**4. خطر يجب الانتباه له:**\n\n*   **جودة الأفكار:** قد تكون بعض الأفكار المقترحة عامة أو غير قابلة للتطبيق عمليًا. يتطلب الأمر مراجعة بشرية دقيقة.\n\n**ملاحظة:** هذه التجربة تستخدم Vercel AI SDK محليًا مع OpenRouter عبر OpenAI-compatible provider.",
+  "usage": {
+    "inputTokens": 181,
+    "inputTokenDetails": {
+      "noCacheTokens": 181,
+      "cacheReadTokens": 0
+    },
+    "outputTokens": 293,
+    "outputTokenDetails": {
+      "textTokens": 293,
+      "reasoningTokens": 0
+    },
+    "totalTokens": 474
+  },
+  "finishReason": "stop",
+  "verification": {
+    "realSdkCall": true,
+    "noApiKeyInClient": true,
+    "staticPageSafeForGitHubPages": true
+  }
+}
